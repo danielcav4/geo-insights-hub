@@ -1,0 +1,5 @@
+title: "Geo Insights Hub"
+description: "A portfolio of GIS, hydrogeology, and environmental analysis projects."
+baseurl: "/geo-insights-hub" # This is required if your repository is not your main GitHub Pages repository
+url: "https://danielcav4.github.io"
+theme: minima
